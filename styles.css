@@ -56,8 +56,8 @@ img {
     font-family: 'Netflix Sans', sans-serif;
     color: #fff;
     margin-top: 10px;
-    font-size: 1.2em;
-    opacity: 0; /* Initially hide the text */
+    font-size: 10px;
+    opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
 
